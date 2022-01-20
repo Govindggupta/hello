@@ -83,3 +83,4 @@ Commit Log:
 [2022-01-20] Pixel by pixel, commit by commit.
 [2022-01-20] Creating digital art with code.
 [2022-01-20] Another day, another commit.
+[2022-01-20] Fun fact: Sharks existed before trees!
