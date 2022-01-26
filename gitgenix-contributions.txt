@@ -100,3 +100,4 @@ Commit Log:
 [2022-01-25] Fun fact: Dolphins have names for each other.
 [2022-01-25] Creating patterns in the matrix.
 [2022-01-26] Fun fact: A shrimp'"'"'s heart is in its head.
+[2022-01-26] Motivation: Innovation starts with iteration.
