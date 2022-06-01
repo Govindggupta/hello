@@ -784,3 +784,4 @@ Commit Log:
 [2022-05-31] Creating digital art with code.
 [2022-05-31] Another day, another commit.
 [2022-05-31] Fun fact: Sharks existed before trees!
+[2022-06-01] Motivation: Embrace the process.
