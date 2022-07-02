@@ -942,3 +942,4 @@ Commit Log:
 [2022-07-02] Fun fact: There are more trees on Earth than stars in the galaxy.
 [2022-07-02] Building bridges with code.
 [2022-07-02] Fun fact: Bubble wrap was originally invented as wallpaper.
+[2022-07-02] Motivation: Every expert was once a beginner.
